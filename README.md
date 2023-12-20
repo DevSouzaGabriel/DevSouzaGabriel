@@ -11,27 +11,24 @@
 
 <img src="https://skillicons.dev/icons?i=vscode" />
 
-<h3 align="center">:dart: Objetivos para 2023+ :dart:</h3>
+<h2 align="center">:dart: Objetivos para 2024 :dart:</h2>
 
 &nbsp;
 
-- Buscar desenvolver e aprimorar minhas soft/hard skills;
+- Adquirir mais habilidades e conhecimentos do mercado de programação;
 - Desenvolver mais projetos para enriquecer meu portfólio;
-- Explorar novas linguagens de programação;
+- Explorar novas linguagens de programação como o ReactJS e Typescript;
 - Ingressar no mercado de trabalho;
 - Começar meu próprio negócio.
 
 &nbsp;
 &nbsp;
 
-<div  align="center" >
-    <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathannfs&theme=blue-white" />
-</div>
 
 ## Contacts:
  
-<a href = "mailto:nathann.santoss2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/nathan-santos-58051b182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href = "mailto:gabrielsouza2001stz@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-henrique-de-oliveira-souza-5764792a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23238E&height=120&section=footer"/>
